@@ -40,3 +40,32 @@ YOLO系列
 17	YOLO V2 Keras- Github	https://github.com/yhcc/yolo2
 
 18	深度学习目标检测算法综述-AI研习社	https://mp.weixin.qq.com/s/l8EWM_ItwDrT5N8tj-STWA
+
+
+
+R-CNN系列		
+		
+1	从R-CNN到Mask R-CNN-知乎	https://zhuanlan.zhihu.com/p/30967656
+
+2	R-CNN论文详解-CSDN	https://blog.csdn.net/wopawn/article/details/52133338
+
+3	SPP-Net论文详解-CSDN	https://blog.csdn.net/v1_vivian/article/details/73275259
+
+4	SPP-Net论文翻译-Blog	http://www.dengfanxin.cn/?p=403
+
+5	ROI Pooling原理及实现-CSDN	https://blog.csdn.net/u011436429/article/details/80279536
+
+6	ROI Pooling层解析-CSDN	https://blog.csdn.net/lanran2/article/details/60143861
+
+7	Faster R-CNN 中 RPN 原理-CSDN	https://blog.csdn.net/zziahgf/article/details/79895804
+
+8	 RPN (区域候选网络)-CSDN	https://blog.csdn.net/JNingWei/article/details/78847696
+
+9	Faster-RCNN算法精读-CSDN	https://blog.csdn.net/hunterlew/article/details/71075925
+
+10	ROIPooling和ROIAlign对比-Blog	https://baijiahao.baidu.com/s?id=1616632836625777924&wfr=spider&for=pc
+
+11	Mask R-CNN详解-CSDN	https://blog.csdn.net/WZZ18191171661/article/details/79453780
+
+
+
