@@ -41,6 +41,9 @@ R-FCN结构的优点
 　　R-FCN要解决的根本问题是Faster R-CNN检测速度慢的问题，速度慢是因为ROI层后的结构对不同的proposal是不共享的，试想下如果有300个proposal，ROI后的全连接网络就要计算300次，这个耗时就太吓人了。所以作者把ROI后的结构往前挪来提升速度，但光是挪动下还不行，ROI在conv5后会引起上节提到的平移可变性问题，必须通过其他方法加强结构的可变性，所以作者就想出了通过添加Position-sensitive score map来达到这个目的。 
 
 
+新增综述
+
+深度学习目标检测方法综述-CSDN    https://blog.csdn.net/zong596568821xp/article/details/80091784
 
 
 YOLO系列	
