@@ -118,6 +118,6 @@ R-CNN系列
 
 R-FCN
 
-1       综述-机器之心        https://www.jiqizhixin.com/articles/2017-09-18-7
+1       综述（Faster R-CNN、R-FCN和SSD）-机器之心        https://www.jiqizhixin.com/articles/2017-09-18-7
 
 2       R-FCN讲解-CSDN      https://blog.csdn.net/LeeWanzhi/article/details/79770376
