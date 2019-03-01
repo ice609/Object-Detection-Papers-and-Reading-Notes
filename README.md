@@ -43,7 +43,7 @@ R-FCN结构的优点
 
 新增综述
 
-深度学习目标检测方法综述-CSDN    https://blog.csdn.net/zong596568821xp/article/details/80091784(recommend)
+深度学习目标检测方法综述-CSDN    https://blog.csdn.net/zong596568821xp/article/details/80091784  (recommend)
 
 
 YOLO系列	
