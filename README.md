@@ -122,9 +122,11 @@ R-CNN系列
 
 11      Faster-rcnn详解-CSDN     https://blog.csdn.net/zziahgf/article/details/79311275  (recommend)
 
-12	ROIPooling和ROIAlign对比-Blog	https://baijiahao.baidu.com/s?id=1616632836625777924&wfr=spider&for=pc
+12      【 Faster R-CNN 】Paper Review  https://www.bilibili.com/video/av15949356?from=search&seid=13647145201383642188
 
-13	Mask R-CNN详解-CSDN	https://blog.csdn.net/WZZ18191171661/article/details/79453780
+13	ROIPooling和ROIAlign对比-Blog	https://baijiahao.baidu.com/s?id=1616632836625777924&wfr=spider&for=pc
+
+14	Mask R-CNN详解-CSDN	https://blog.csdn.net/WZZ18191171661/article/details/79453780
 
 R-FCN
 
