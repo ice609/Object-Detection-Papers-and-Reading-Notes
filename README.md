@@ -142,8 +142,20 @@ Faster R-CNN
 
 Mask R-CNN
 
-1      何凯明 Mask R-CNN ICCV 2017-B站     https://www.bilibili.com/video/av21410129?from=search&seid=2835437329822299200
+1      YOLO 目标检测 (TensorFlow tutorial)-B站    https://www.bilibili.com/video/av37448440
 
-2      Paper Review Mask RCNN-B站          https://www.bilibili.com/video/av15949583?from=search&seid=2835437329822299200
+2      深度学习顶级论文算法详解-B站          https://www.bilibili.com/video/av26915855
 
-3      Mask RCNN with Keras and Tensorflow-B站      https://www.bilibili.com/video/av20821618?from=search&seid=2835437329822299200
+3      将门分享-任少卿-From Faster R-CNN to Mask R-CNN-B站    https://www.bilibili.com/video/av19507321
+
+4      将门创投 | 旷视科技资深研究员俞刚-Beyond RetinaNet & Mask R-CNN-B站   https://www.bilibili.com/video/av29340771
+
+5      Momenta Paper Reading Mask R-CNN解读-B站     https://www.bilibili.com/video/av31977792
+
+6      Fast AI Object Detection-B站      https://www.bilibili.com/video/av24120121
+
+7      何凯明 Mask R-CNN ICCV 2017-B站     https://www.bilibili.com/video/av21410129?from=search&seid=2835437329822299200
+
+8      Paper Review Mask RCNN-B站          https://www.bilibili.com/video/av15949583?from=search&seid=2835437329822299200
+
+9      Mask RCNN with Keras and Tensorflow-B站      https://www.bilibili.com/video/av20821618?from=search&seid=2835437329822299200
