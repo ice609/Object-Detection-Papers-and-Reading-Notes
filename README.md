@@ -150,7 +150,7 @@ Mask R-CNN
 
 3      将门分享-任少卿-From Faster R-CNN to Mask R-CNN-B站    https://www.bilibili.com/video/av19507321
 
-4      将门创投 | 旷视科技资深研究员俞刚-Beyond RetinaNet & Mask R-CNN-B站   https://www.bilibili.com/video/av29340771  (recommend)
+4      将门 | 旷视俞刚-Beyond RetinaNet & Mask R-CNN-B站   https://www.bilibili.com/video/av29340771  (recommend)
 
 5      Momenta Paper Reading Mask R-CNN解读-B站     https://www.bilibili.com/video/av31977792
 
