@@ -142,6 +142,8 @@ Faster R-CNN
 
 Mask R-CNN
 
+0      作者详细讲解YOLO-B站     https://www.bilibili.com/video/av11200546/?spm_id_from=trigger_reload
+
 1      YOLO 目标检测 (TensorFlow tutorial)-B站    https://www.bilibili.com/video/av37448440
 
 2      深度学习顶级论文算法详解-B站          https://www.bilibili.com/video/av26915855
