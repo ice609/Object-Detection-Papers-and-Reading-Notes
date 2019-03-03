@@ -146,7 +146,7 @@ Mask R-CNN
 
 1      YOLO 目标检测 (TensorFlow tutorial)-B站    https://www.bilibili.com/video/av37448440
 
-2      深度学习顶级论文算法详解-B站          https://www.bilibili.com/video/av26915855
+2      深度学习顶级论文算法详解-B站          https://www.bilibili.com/video/av30271782/?p=5
 
 3      将门分享-任少卿-From Faster R-CNN to Mask R-CNN-B站    https://www.bilibili.com/video/av19507321
 
