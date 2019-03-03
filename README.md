@@ -130,14 +130,20 @@ R-CNN系列
 
 14	Mask R-CNN详解-CSDN	https://blog.csdn.net/WZZ18191171661/article/details/79453780
 
-15      何凯明 Mask R-CNN ICCV 2017-B站     https://www.bilibili.com/video/av21410129?from=search&seid=2835437329822299200
-
-16      Paper Review Mask RCNN-B站          https://www.bilibili.com/video/av15949583?from=search&seid=2835437329822299200
-
-17      Mask RCNN with Keras and Tensorflow-B站      https://www.bilibili.com/video/av20821618?from=search&seid=2835437329822299200
-
 R-FCN
 
 1       综述（Faster R-CNN、R-FCN和SSD）-机器之心        https://www.jiqizhixin.com/articles/2017-09-18-7
 
 2       R-FCN讲解-CSDN      https://blog.csdn.net/LeeWanzhi/article/details/79770376
+
+视频
+
+Faster R-CNN
+
+Mask R-CNN
+
+1      何凯明 Mask R-CNN ICCV 2017-B站     https://www.bilibili.com/video/av21410129?from=search&seid=2835437329822299200
+
+2      Paper Review Mask RCNN-B站          https://www.bilibili.com/video/av15949583?from=search&seid=2835437329822299200
+
+3      Mask RCNN with Keras and Tensorflow-B站      https://www.bilibili.com/video/av20821618?from=search&seid=2835437329822299200
