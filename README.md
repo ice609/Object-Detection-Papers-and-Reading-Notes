@@ -134,6 +134,12 @@ R-FCN
 
 2       R-FCN讲解-CSDN      https://blog.csdn.net/LeeWanzhi/article/details/79770376
 
+FPN
+
+作者提出的FPN（Feature Pyramid Network）算法同时利用低层特征高分辨率和高层特征的高语义信息，通过融合这些不同层的特征达到预测的效果。并且预测是在每个融合后的特征层上单独进行的，这和常规的特征融合方式不同。
+
+1       FPN（feature pyramid networks）算法讲解-CSDN     https://blog.csdn.net/u014380165/article/details/72890275/
+
 视频
 
 Faster R-CNN
