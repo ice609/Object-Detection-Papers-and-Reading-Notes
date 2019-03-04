@@ -145,6 +145,8 @@ FPN是对用卷积神经网络进行目标检测方法的一种改进，通过�
 
 1       FPN（feature pyramid networks）算法讲解-CSDN     https://blog.csdn.net/u014380165/article/details/72890275/
 
+2       PN特征金字塔网络--论文解读-CSDN      https://blog.csdn.net/weixin_40683960/article/details/79055537
+
 视频
 
 Faster R-CNN
