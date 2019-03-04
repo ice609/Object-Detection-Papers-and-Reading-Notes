@@ -161,3 +161,14 @@ Mask R-CNN
 8      Paper Review Mask RCNN-B站          https://www.bilibili.com/video/av15949583?from=search&seid=2835437329822299200
 
 9      Mask RCNN with Keras and Tensorflow-B站      https://www.bilibili.com/video/av20821618?from=search&seid=2835437329822299200
+
+
+Other URL
+
+http://www.vision263.com/1419.html
+
+https://blog.csdn.net/u013886628/article/details/51819176
+
+http://wemedia.ifeng.com/91345411/wemedia.shtml
+
+https://pan.baidu.com/s/1y3UbEFIf2fJJDSWfG-53MQ
