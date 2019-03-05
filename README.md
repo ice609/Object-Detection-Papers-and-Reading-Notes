@@ -155,6 +155,9 @@ RefineDet
 2      论文笔记——RefineDet-CSDN    https://blog.csdn.net/nwu_nbl/article/details/81110286
 
 
+RetinaNet
+
+1.     论文阅读: RetinaNet-CSDN    https://blog.csdn.net/JNingWei/article/details/80038594
 
 
 视频
