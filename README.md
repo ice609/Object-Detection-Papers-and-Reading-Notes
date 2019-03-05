@@ -152,6 +152,7 @@ RefineDet
 
 1      RefineDet算法笔记-CSDN    https://blog.csdn.net/u014380165/article/details/79502308
 
+2      论文笔记——RefineDet-CSDN    https://blog.csdn.net/nwu_nbl/article/details/81110286
 
 
 
