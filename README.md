@@ -181,7 +181,7 @@ RefineDet
 
 RetinaNet
 
-1.     论文阅读: RetinaNet-CSDN    https://blog.csdn.net/JNingWei/article/details/80038594
+1      论文阅读: RetinaNet-CSDN     https://blog.csdn.net/JNingWei/article/details/80038594
 
 
 视频
