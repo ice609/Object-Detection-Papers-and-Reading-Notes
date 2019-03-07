@@ -189,6 +189,12 @@ RetinaNet
 
 1      论文阅读: RetinaNet-CSDN     https://blog.csdn.net/JNingWei/article/details/80038594
 
+深度学习模型压缩方法
+
+1     深度学习模型压缩方法综述-CSDN   https://blog.csdn.net/wspba/article/details/75671573
+
+2     当前深度神经网络模型压缩和加速方法速览-CSDN   https://blog.csdn.net/Touch_Dream/article/details/78441332
+
 
 视频
 
