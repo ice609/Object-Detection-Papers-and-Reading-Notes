@@ -211,6 +211,8 @@ YOLO系列
 7	目标检测算法之YOLO-CSDN	https://blog.csdn.net/SIGAI_CSDN/article/details/80718050
 
 8	YOLOv3-量子位	https://mp.weixin.qq.com/s/cq7g1-4oFTftLbmKcpi_aQ
+        
+   代码   https://mp.weixin.qq.com/s/6VfxXnm_BERubvCTWLfHBg
 
 9	YOLO-官网	https://pjreddie.com/darknet/yolo/
 
