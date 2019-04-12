@@ -333,3 +333,7 @@ Mask R-CNN
 8      Paper Review Mask RCNN-B站          https://www.bilibili.com/video/av15949583?from=search&seid=2835437329822299200
 
 9      Mask RCNN with Keras and Tensorflow-B站      https://www.bilibili.com/video/av20821618?from=search&seid=2835437329822299200
+
+Object Detection资源汇总链接
+
+https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
