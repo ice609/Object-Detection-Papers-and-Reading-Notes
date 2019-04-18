@@ -234,7 +234,7 @@ YOLO系列
 
 18	深度学习目标检测算法综述-AI研习社	https://mp.weixin.qq.com/s/l8EWM_ItwDrT5N8tj-STWA
 
-
+19      CenterNet     https://github.com/Duankaiwen/CenterNet
 
 
 
