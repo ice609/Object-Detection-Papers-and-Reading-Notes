@@ -337,5 +337,3 @@ Mask R-CNN
 Object Detection资源汇总链接
 
 https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
-
-
